@@ -1,0 +1,6 @@
+Update Github pages website:
+git add dist -f
+git commit -m "Dist Test X"
+git  subtree push --prefix dist origin gh-pages
+
+###
